@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Deezer</string>
+    <string name="title_home">Deezer</string>
+    <string name="title_dashboard">Favoris</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_title">Find an artist\n</string>
+    <string name="artist_nbFans">Fans: 15</string>
+    <string name="artist_name">Artiste: Moby</string>
+    <string name="artist_id">493</string>
+    <string name="artist_nbAlb">Albums: 4\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="album_name">Album Name</string>
+    <string name="artist_album">Artist</string>
+    <string name="num">1</string>
+</resources>
